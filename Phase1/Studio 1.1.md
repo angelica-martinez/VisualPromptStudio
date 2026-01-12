@@ -1,4 +1,4 @@
-**Assignment title: ** Visual Prompt Studio Phase 1.1
+**Assignment title:** Visual Prompt Studio Phase 1.1
 
 **Prompt** 
 Create a portrait of a woman reading under a tree, in the style of an impressionist oil painting from the late 19th century, with warm pastel tones, soft lighting, and a balanced composition emphasizing harmony and movement. Highlight the themes of solitude and intellectual freedom by isolating the woman from a softly blurred background to imply depth. Introduce a distant village in the background for context. Create a strong focal point on the woman and the book by using value contrast between her figure and the three against the softer background.
